@@ -1,0 +1,11 @@
+name: TChatCleaner
+main: towo\Main
+author: towo
+version: 1.0.1
+api: 
+- 3.0.0-ALPHA11
+
+commands:
+  채팅청소:
+   usage: /채팅청소
+   description: 채팅청소 명령어
